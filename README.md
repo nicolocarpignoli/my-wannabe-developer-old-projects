@@ -7,4 +7,4 @@ Work in Progress
 * MOOVBIT (Prototype of a complete IoT platform for sports monitoring)
 * SVPlatform (Spike for a secure remote voting application)
 * A Fury Of Snow (2D-old-Final-Fantasy style RPG placed on Game of Thrones world)
-* Ex-AMS (Exams register, graduation vote calculator app with integrated calendar).
+* Ex-AMS (Exams registration, graduation vote calculation and an integrated calendar are integrated in this desktop app).
