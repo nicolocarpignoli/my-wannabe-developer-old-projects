@@ -22,4 +22,4 @@ You can run it in every Windows computer. It’s made with RPGMaker VX. I do not
 
 ## Links
 
-[Shut up and just let me download the game](https://drive.google.com/drive/folders/1ZvmKestgbTrNMGZ8UV09v5sdUD92uyAq?usp=sharing)
+[Shut up and just let me download the game](https://drive.google.com/drive/folders/1ZvmKestgbTrNMGZ8UV09v5sdUD92uyAq?usp=sharing) - Download the full folder and run .exe file.
