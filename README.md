@@ -1,7 +1,5 @@
 # my-wannabe-developer-old-projects
-A collection of old-wannabe-developer projects of mine. Don't look back in anger.
-
-Work in Progress
+A collection of old-wannabe-developer projects of mine. _Don't look back in anger_.
 
 * [MOOVBIT](/moovbit) (prototype of a complete IoT platform for sports monitoring)
 * [SVPlatform](svplatform) (spike for a secure remote voting application)
