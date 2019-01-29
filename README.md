@@ -1,6 +1,5 @@
 # my-wannabe-developer-old-projects
 A collection of old-wannabe-developer projects of mine. Don't look back in anger.
-Not every project is open-source. Sorry about that.
 
 Work in Progress
 
